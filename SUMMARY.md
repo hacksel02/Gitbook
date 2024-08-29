@@ -2,8 +2,12 @@
 
 * [❓ Whoami](README.md)
 
-## 🟦 Blue Team Labs
+## ✅ Certifications
 
-* [BTL1](blue-team-labs/btl1/README.md)
-  * [Volatility](blue-team-labs/btl1/volatility.md)
-* [BTL2](blue-team-labs/btl2.md)
+* [🟦 BTL1](certifications/btl2.md)
+* [🟦 BTL2](certifications/btl2-1.md)
+* [🟥 PNPT](certifications/pnpt.md)
+
+## Forensic
+
+* [Volatility](forensic/volatility.md)
