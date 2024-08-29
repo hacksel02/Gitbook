@@ -8,6 +8,10 @@
 * [🟦 BTL2](certifications/btl2-1.md)
 * [🟥 PNPT](certifications/pnpt.md)
 
-## Forensic
+## 💽 Forensic
 
-* [Volatility](forensic/volatility.md)
+* [🐦 Volatility](forensic/volatility.md)
+
+## Scripting
+
+* [🐍 Python](scripting/python.md)
