@@ -2,7 +2,7 @@
 
 * [❓ Whoami](README.md)
 
-## Blue Team Labs
+## 🟦 Blue Team Labs
 
 * [BTL1](blue-team-labs/btl1/README.md)
   * [Volatility](blue-team-labs/btl1/volatility.md)
