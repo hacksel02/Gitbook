@@ -11,6 +11,7 @@
 ## 💽 Forensic
 
 * [🐦 Volatility](forensic/volatility.md)
+* [🐟 Phishing analysis](forensic/phishing-analysis.md)
 
 ## Scripting
 
