@@ -16,3 +16,7 @@
 ## Scripting
 
 * [🐍 Python](scripting/python.md)
+
+## Active directory
+
+* [Attacks and commands](active-directory/attacks-and-commands.md)
